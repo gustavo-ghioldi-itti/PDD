@@ -1,4 +1,4 @@
-Perfecto, Gustavo 🙌. Te armo un **temario estructurado para una masterclass de 45–60 minutos sobre patrones de diseño en Python**, pensado para mantener el ritmo dinámico y claro:
+**temario estructurado para una masterclass de 45–60 minutos sobre patrones de diseño en Python**, pensado para mantener el ritmo dinámico y claro:
 
 ---
 
@@ -59,4 +59,5 @@ Perfecto, Gustavo 🙌. Te armo un **temario estructurado para una masterclass d
 ## 6. Cierre y Q&A (5 min)
 
 ---
+
 
