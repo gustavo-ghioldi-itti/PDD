@@ -8,6 +8,7 @@ class Config:
             cls._instance.settings = {"modo": "producción", "debug": False}
         return cls._instance
 
+
 # Uso
 c1 = Config()
 c2 = Config()

@@ -12,17 +12,21 @@ class Subject:
         for obs in self._observers:
             obs.update(message)
 
+
 class Observer:
     def update(self, message):
         pass
+
 
 class EmailObserver(Observer):
     def update(self, message):
         print(f"[EMAIL] Notificación: {message}")
 
+
 class SMSObserver(Observer):
     def update(self, message):
         print(f"[SMS] Notificación: {message}")
+
 
 # Uso
 subject = Subject()

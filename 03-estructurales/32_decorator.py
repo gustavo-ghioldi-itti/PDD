@@ -4,9 +4,11 @@ def log(func):
         return func(*args, **kwargs)
     return wrapper
 
+
 @log
 def saludar(nombre):
     print(f"Hola, {nombre}!")
+
 
 # Uso
 saludar("Gustavo")

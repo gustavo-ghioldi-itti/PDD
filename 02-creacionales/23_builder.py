@@ -17,6 +17,7 @@ class QueryBuilder:
     def build(self):
         return self.query.strip()
 
+
 # Uso
 query = (
     QueryBuilder()

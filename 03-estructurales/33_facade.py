@@ -1,5 +1,6 @@
 import requests
 
+
 # Subsistema complejo: autenticación + llamadas HTTP
 class SistemaHTTP:
     def __init__(self, token):
@@ -13,6 +14,7 @@ class SistemaHTTP:
         headers = {"Authorization": f"Bearer {self.token}"}
         return requests.post(url, json=data, headers=headers)
 
+
 # Facade: interfaz simplificada
 class APIClient:
     def __init__(self, token):
@@ -23,6 +25,7 @@ class APIClient:
 
     def crear_usuario(self, datos):
         return self.http.post("https://api.ejemplo.com/users", datos).json()
+
 
 # Uso
 cliente = APIClient("mi_token_secreto")
