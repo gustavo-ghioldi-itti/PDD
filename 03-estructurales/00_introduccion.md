@@ -24,11 +24,6 @@ Los patrones estructurales ayudan a resolver problemas como:
 3. **Simplicidad**: Simplifican las relaciones entre objetos
 4. **Desacoplamiento**: Reducen las dependencias entre componentes
 
-## Patrones Incluidos en esta Sección
-
-- **Adapter (Adaptador)**: Permite que interfaces incompatibles trabajen juntas
-- **Decorator (Decorador)**: Añade funcionalidad a objetos dinámicamente sin alterar su estructura
-- **Facade (Fachada)**: Proporciona una interfaz simplificada a un subsistema complejo
 
 ## Cuándo Usar Patrones Estructurales
 
