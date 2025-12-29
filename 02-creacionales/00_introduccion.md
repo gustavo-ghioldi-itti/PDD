@@ -24,12 +24,6 @@ Los patrones creacionales ayudan a resolver problemas comunes como:
 3. **Control**: Proporcionan mayor control sobre el proceso de instanciación
 4. **Reutilización**: Promueven la reutilización de código de creación
 
-## Patrones Incluidos en esta Sección
-
-- **Factory (Fábrica)**: Proporciona una interfaz para crear objetos sin especificar sus clases concretas
-- **Singleton**: Asegura que una clase tenga solo una instancia y proporciona un punto de acceso global
-- **Builder (Constructor)**: Separa la construcción de un objeto complejo de su representación
-
 ## Cuándo Usar Patrones Creacionales
 
 Considera usar patrones creacionales cuando:
