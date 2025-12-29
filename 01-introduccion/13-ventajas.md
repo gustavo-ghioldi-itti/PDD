@@ -1,7 +1,3 @@
-Perfecto, Gustavo 👌. Aquí tenés el contenido para el bloque **“Ventajas en Python”**, ideal para tu Slide 1:
-
----
-
 ## 🐍 Ventajas en Python
 
 - **Legibilidad**  
@@ -16,5 +12,6 @@ Perfecto, Gustavo 👌. Aquí tenés el contenido para el bloque **“Ventajas e
   - Tipado dinámico y duck typing que simplifican extensiones.  
   - Comunidad amplia y librerías que refuerzan buenas prácticas.  
   - Patrones se integran naturalmente en frameworks como Django o Flask.  
+
 
 ---
