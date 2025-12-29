@@ -25,11 +25,6 @@ Los patrones de comportamiento ayudan a resolver problemas como:
 3. **Reutilización**: Promueven la reutilización de algoritmos y comportamientos
 4. **Mantenibilidad**: Facilitan la comprensión y el mantenimiento de la lógica de negocio
 
-## Patrones Incluidos en esta Sección
-
-- **Observer (Observador)**: Define una dependencia uno-a-muchos para notificar cambios automáticamente
-- **Strategy (Estrategia)**: Define una familia de algoritmos intercambiables
-- **Command (Comando)**: Encapsula una solicitud como un objeto, permitiendo parametrizar y encolar operaciones
 
 ## Cuándo Usar Patrones de Comportamiento
 
